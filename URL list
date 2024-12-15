@@ -1,0 +1,36 @@
+Tools to start with
+https://www.laurenceanthony.net/software/antconc/  AntConc, a software package that allows statistical analyses on text
+https://voyant-tools.org/  Voyant Tools  
+https://claude.ai - AI Chatbot
+
+Text databases
+https://cema.lamop.fr/search/#page-content CEMA Cartae Europae Medii Aevi (lemmatized corpus) using a NoSketch Engine
+https://lta.bbaw.de/  Latin Text Archive 
+https://mlat.uzh.ch/browser?path=/  Corpus Corporum (largest text repository on the internet)
+https://lila-erc.eu/#page-top - Linking Latin. Building a Knowledge Base of Linguistic Resources for Latin
+
+Guides - Learning material
+https://programminghistorian.org/ Programming historian website (English, Spanish, French, Portuguese) – lessons and tutorial for many aspects of Digital Humanities 
+https://fortext.net/  Digitale Textanalyse ( in German) excellent entry point, offers orientation and lessons (Darmstadt University)
+https://guides.temple.edu/c.php?g=78518&p=505212  Introduction to Text Analysis (Temple University) 
+https://libguides.union.edu/digital-scholarship/cta#:~:text=Computational%20Text%20Analysis%20%28CTA%29%20is%20an%20umbrella%20term,texts%2C%20from%20individual%20texts%20to%20big%20%28textual%29%20data. Digital Scholarship: Computational Text Analysis
+https://cjbarrie.github.io/CTA-ED/  Computational Text Analysis by Christopher Barrie – textbook with GitHub-repository for self-learning
+https://guides.library.illinois.edu/c.php?g=405110&p=2803418 Guide to text mining tools from the University of Illinois
+
+Software 
+https://nlp.stanford.edu/software/ Stanford CoreNLP
+https://www.python.org/downloads/
+https://spacy.io/usage
+https://github.com/cltk/cltk - NLP for Latin and Greek
+https://huggingface.co/latincy - Large Language Model for Medieval Latin
+https://openrefine.org/ - for data curation
+https://gephi.org/ - for data visualization
+
+Syriac
+https://syriaccorpus.org/index.html
+https://openhumanitiesdata.metajnl.com/articles/10.5334/johd.229
+      
+Greek
+https://classics-at.chs.harvard.edu/digital-methods-of-analysing-and-reconstructing-ancient-greek-and-latin-texts/
+
+
